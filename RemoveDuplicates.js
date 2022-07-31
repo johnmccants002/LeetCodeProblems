@@ -3,10 +3,6 @@
  * @return {number}
  */
 
-// Testing
-var john;
-var test;
-var new;
  var removeDuplicates = function(nums) {
     let duplicates = [];
     for (let i = 0; i < nums.length; i++) {
