@@ -6,3 +6,4 @@
 4. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 5. [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)
 6. [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+7. [Water Bottle Exchange](https://leetcode.com/problems/water-bottles/)
