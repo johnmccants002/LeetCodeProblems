@@ -5,6 +5,7 @@
 
 // Testing
 var john;
+var test;
  var removeDuplicates = function(nums) {
     let duplicates = [];
     for (let i = 0; i < nums.length; i++) {
