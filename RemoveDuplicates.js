@@ -2,7 +2,7 @@
  * @param {number[]} nums
  * @return {number}
  */
-var testing123;
+var testing12;
  var removeDuplicates = function(nums) {
     let duplicates = [];
     for (let i = 0; i < nums.length; i++) {
@@ -17,3 +17,5 @@ var testing123;
     console.log(nums, duplicates)
     return nums
 };
+
+var new;
