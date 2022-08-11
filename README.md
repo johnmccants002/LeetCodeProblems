@@ -8,5 +8,6 @@
 6. [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 7. [Water Bottle Exchange](https://leetcode.com/problems/water-bottles/)
 8. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+9. [Remove Element](https://leetcode.com/problems/remove-element/)
 
 Testing
