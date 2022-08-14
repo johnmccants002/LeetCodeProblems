@@ -12,4 +12,6 @@
 10. [Maximum Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 11. [Letter Combinations Of Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 12. [Pivot Index](https://leetcode.com/problems/find-pivot-index/)
+13. [Running Sum](https://leetcode.com/problems/running-sum-of-1d-array/)
+
 
